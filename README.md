@@ -1,4 +1,4 @@
-# PSYLIQ DATA ANALYSIS PROJECT
+# PSYLIQ DATA ANALYSIS INTERNSHIP PROJECT
 
 # Project Overview:
 # Title: Unlocking HR Insights: Psyliq HR Data Dive
